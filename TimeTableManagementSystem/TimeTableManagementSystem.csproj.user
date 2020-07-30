@@ -13,12 +13,18 @@
     <Compile Update="interfaces\basic\Window1.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="interfaces\scheduleOrganizer\Window1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="interfaces\basic2\Window1.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="interfaces\basic\Window1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="interfaces\scheduleOrganizer\Window1.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">

@@ -1,5 +1,5 @@
 ﻿TimeTableManagementSystem
-1.0.0.0
+
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 C:\Users\Tharindu\Desktop\VISHUAL_STUDIO\TimeTableManagementSystem\TimeTableManagementSystem\App.xaml
 4378471122
 
-8-1234533958
+6-2067273577
 216-432990117
 interfaces\basic2\Window1.xaml;interfaces\basic\Window1.xaml;interfaces\scheduleOrganizer\Window1.xaml;MainWindow.xaml;
 
